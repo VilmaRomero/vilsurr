@@ -13,17 +13,17 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
+first_name: Vilma
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Romero
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Lima
+  url: https://www.ulima.edu.pe
+role: Lecturer of Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,24 +33,25 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/vilsurr
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/VilmaRomero
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/vilma-susana-romero-romero/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
-status:
-  icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Vilma Romero
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vilma Romero is a Lecturer in the [Faculty of Engineering and Architecture](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at the [University of Lima](https://www.ulima.edu.pe) located in Peru. Her research interests include Data Visualization, Statistical Learning and Data Science.
+
+Also, I am part of the [R-Ladies Global community](https://rladies.org) and the chapter [R-Ladies Lima](https://www.meetup.com/es-ES/rladies-lima/).
+
 {style="text-align: justify;"}
