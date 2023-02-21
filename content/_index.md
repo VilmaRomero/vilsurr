@@ -176,7 +176,7 @@ sections:
     contact_links:
     - icon: twitter
       icon_pack: fab
-      link: https://twitter.com/Twitter
+      link: https://twitter.com/vilsurr
       name: DM Me
     email: vromeror@uni.pe
     form:
@@ -186,7 +186,7 @@ sections:
         captcha: false
       provider: netlify
     subtitle: null
-    text: You can send me your message
+    text: You can send me a message
     title: Contact
   design:
     columns: "2"
