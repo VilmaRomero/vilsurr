@@ -179,14 +179,6 @@ sections:
       link: https://twitter.com/vilsurr
       name: DM Me
     email: vromeror@uni.pe
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
-    subtitle: null
-    text: You can send me a message
     title: Contact
   design:
     columns: "2"
