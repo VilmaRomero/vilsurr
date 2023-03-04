@@ -4,6 +4,7 @@ author: "Vilma Romero"
 date: '2017-02-14'
 categories: ["R"]
 tags: ["ggplot2","plot","causality"]
+math: true
 ---
 
 

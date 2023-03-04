@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ggplot2 | Vilma Romero</title>
-    <link>https://example.com/tag/ggplot2/</link>
-      <atom:link href="https://example.com/tag/ggplot2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://vilmaromero.github.io/tag/ggplot2/</link>
+      <atom:link href="https://vilmaromero.github.io/tag/ggplot2/index.xml" rel="self" type="application/rss+xml" />
     <description>ggplot2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://vilmaromero.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>ggplot2</title>
-      <link>https://example.com/tag/ggplot2/</link>
+      <link>https://vilmaromero.github.io/tag/ggplot2/</link>
     </image>
     
     <item>
       <title>Causal Diagram</title>
-      <link>https://example.com/post/2017-02-14-causal-diagram/</link>
+      <link>https://vilmaromero.github.io/post/2017-02-14-causal-diagram/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/2017-02-14-causal-diagram/</guid>
+      <guid>https://vilmaromero.github.io/post/2017-02-14-causal-diagram/</guid>
       <description>&lt;style&gt;
 body {
 text-align: justify}
@@ -121,7 +121,7 @@ text-align: justify}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                              &lt;span class=&#34;s&#34;&gt;&amp;#34;Non Verbal FB&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; 
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nf&#34;&gt;labs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;Time&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;y&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NULL&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nf&#34;&gt;guides&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;size&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;guide_legend&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;title&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;expression&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;R^2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)))&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://example.com/post/2017-02-14-causal-diagram/index_files/figure-html/causal-diagram-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src=&#34;https://vilmaromero.github.io/post/2017-02-14-causal-diagram/index_files/figure-html/causal-diagram-1.png&#34; width=&#34;672&#34; /&gt;
 &lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;
 &lt;p&gt;The red shaded circles stands for the goodness of fit, which in linear models is the $R^2$, and it varies according to its value. Additionally, the darker the arrow is, the more significant becomes the precedent ability in explaining the respective latent ability at this time point.&lt;/p&gt;
 &lt;p&gt;It can be clearly seen that Pretense, Desire and Think can be explained at Time 2 by the same abilities and Non Verbal False Believe abilities had at Time 1. The same pattern is looked for Non Verbal False Belief at Time 2 which is summarised by its previous ability and the Pretense, Desire and Think ability at Time 1. However, these last causality is less accurate since its $R^2$ value is smaller. Even though there is an arrow from Location Change ability at Time 1 to Verbal False Belief ability at Time 2 indicating causality, it is not that much significant ($p-value \approx 0.05$) and also the $R^2$ is around 50%. The remaining abilities at Time 2 are as well explained by themselves at Time 1.&lt;/p&gt;

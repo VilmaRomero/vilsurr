@@ -4,10 +4,11 @@ author: "Vilma Romero"
 date: '2017-02-14'
 categories: ["R"]
 tags: ["ggplot2","plot","causality"]
+math: true
 ---
 
 ```{r setup, include=FALSE}
-# knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE,fig.path = "static")
 ```
 
 <style>
