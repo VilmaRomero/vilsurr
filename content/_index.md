@@ -9,18 +9,18 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
+    - description: Import, Clean, Analyze and Visualize data | R Markdown | Dashboards | Shiny apps
       icon: r-project
       icon_pack: fab
-      name: R
-    - description: 100%
+      name: Data Science in R
+    - description: Descriptive | Inferential | Predictive
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: 10%
-      icon: camera-retro
+    - description: Documents | Slides with Beamer
+      icon: edit
       icon_pack: fas
-      name: Photography
+      name: LaTeX
     title: Skills
 - block: experience
   content:
