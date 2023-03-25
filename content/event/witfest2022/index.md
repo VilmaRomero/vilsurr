@@ -18,7 +18,7 @@ projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: Un breve recorrido por el campo de Data Science
-tags: []
+tags: ["Data Scientist"]
 title: Aspirando a ser una Data Scientist
 url_code: ""
 url_pdf: ""
