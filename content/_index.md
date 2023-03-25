@@ -157,6 +157,10 @@ sections:
     view: citation
 - block: collection
   content:
+    archive:
+      enable: true
+      text: See all talks
+      link: event/
     filters:
       folders:
       - event

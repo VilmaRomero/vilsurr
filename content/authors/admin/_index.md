@@ -12,9 +12,9 @@ email: ""
 first_name: Vilma
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Visualization
+- Statistical Learning
+- Data Science
 last_name: Romero
 organizations:
 - name: University of Lima
