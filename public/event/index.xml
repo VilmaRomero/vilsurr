@@ -5,12 +5,20 @@
     <link>https://vilmaromero.github.io/event/</link>
       <atom:link href="https://vilmaromero.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Mar 2018 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://vilmaromero.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://vilmaromero.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Aspirando a ser una Data Scientist</title>
+      <link>https://vilmaromero.github.io/talk/aspirando-a-ser-una-data-scientist/</link>
+      <pubDate>Thu, 28 Apr 2022 18:30:00 +0000</pubDate>
+      <guid>https://vilmaromero.github.io/talk/aspirando-a-ser-una-data-scientist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My journey in Data Science</title>
