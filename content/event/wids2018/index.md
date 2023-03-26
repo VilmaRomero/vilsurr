@@ -14,10 +14,10 @@ event_url: https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas/agenda/confe
 featured: true
 image:
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/vilsurr
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/vilsurr
 location: Universidad de Lima
 projects:
 publishDate: "2017-01-01T00:00:00Z"

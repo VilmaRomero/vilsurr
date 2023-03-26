@@ -12,9 +12,9 @@ email: ""
 first_name: Vilma
 highlight_name: true
 interests:
-- Data Visualization
-- Statistical Learning
-- Data Science
+ - Data Visualization
+ - Statistical Learning
+ - Data Science
 last_name: Romero
 organizations:
 - name: University of Lima
@@ -41,6 +41,9 @@ social:
   link: uploads/CurriculumVitaeVR.pdf
 superuser: true
 title: Vilma Romero
+
+authors:
+- admin
 ---
 
 I am a Lecturer in the [Faculty of Engineering and Architecture](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at the [University of Lima](https://www.ulima.edu.pe) located in Peru. My research interests include Data Visualization, Statistical Learning and Data Science.

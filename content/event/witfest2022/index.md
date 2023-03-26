@@ -9,10 +9,10 @@ event_url: https://www.facebook.com/womeninitfest/photos/pb.100076368204929.-220
 featured: true
 image:
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/vilsurr
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/vilsurr
 location: Online
 projects:
 publishDate: "2017-01-01T00:00:00Z"

@@ -26,27 +26,33 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
-      company_logo: org-gc
-      company_url: ""
+    - company: Universidad de Lima
+      #company_logo: org-gc
+      company_url: "https://www.ulima.edu.pe"
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2019-04-01"
       description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
-      company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+          I teach **Applied Statistics** and I am the **Course Coordinator** of this undergraduate course in the Systems Engineering School. I also taught the first and second course of Statistics and Probability.
+          
+      location: Lima, Peru
+      title: Lecturer
+    - company: Pontificia Universidad Católica del Perú (PUCP)
+      #company_logo: org-x
+      company_url: "https://www.pucp.edu.pe"
+      date_end: "2021-01-31"
+      date_start: "2020-02-14"
+      description: I taught **Applied Statistics** in the [Specialization Program in Data Analytics](https://educacioncontinua.pucp.edu.pe/programas/diplomatura-de-especializacion-en-data-analytics/). 
+      location: Lima, Peru
+      title: Instructor      
+      
+    - company: National University of Engineering (UNI)
+      #company_logo: org-x
+      company_url: "https://www.uni.edu.pe"
+      date_end: "2018-12-21"
+      date_start: "2016-08-22"
+      description: I taught the undergraduate courses **Statistics I** and **II**, **Computing II** and **Biostatistics**. I also taught **Data Analysis Introduction** and **Advanced Data Analysis** in the [Specialization Program in Business Intelligence & Business Analytics (PEBIBA)](https://fieecs.uni.edu.pe/business-intelligence-business-analytics/).
+      location: Lima, Peru
+      title: Lecturer  
     title: Experience
   design:
     columns: "2"
