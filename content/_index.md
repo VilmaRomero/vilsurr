@@ -56,38 +56,38 @@ sections:
     title: Experience
   design:
     columns: "2"
-- block: accomplishments
-  content:
-    date_format: Jan 2006
-    items:
-    - certificate_url: https://www.coursera.org
-      date_end: ""
-      date_start: "2021-01-25"
-      description: ""
-      organization: Coursera
-      organization_url: https://www.coursera.org
-      title: Neural Networks and Deep Learning
-      url: ""
-    - certificate_url: https://www.edx.org
-      date_end: ""
-      date_start: "2021-01-01"
-      description: Formulated informed blockchain models, hypotheses, and use cases.
-      organization: edX
-      organization_url: https://www.edx.org
-      title: Blockchain Fundamentals
-      url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    - certificate_url: https://www.datacamp.com
-      date_end: "2020-12-21"
-      date_start: "2020-07-01"
-      description: ""
-      organization: DataCamp
-      organization_url: https://www.datacamp.com
-      title: Object-Oriented Programming in R
-      url: ""
-    subtitle: null
-    title: Accomplish&shy;ments
-  design:
-    columns: "2"
+# - block: accomplishments
+#   content:
+#     date_format: Jan 2006
+#     items:
+#     - certificate_url: https://www.coursera.org
+#       date_end: ""
+#       date_start: "2021-01-25"
+#       description: ""
+#       organization: Coursera
+#       organization_url: https://www.coursera.org
+#       title: Neural Networks and Deep Learning
+#       url: ""
+#     - certificate_url: https://www.edx.org
+#       date_end: ""
+#       date_start: "2021-01-01"
+#       description: Formulated informed blockchain models, hypotheses, and use cases.
+#       organization: edX
+#       organization_url: https://www.edx.org
+#       title: Blockchain Fundamentals
+#       url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     - certificate_url: https://www.datacamp.com
+#       date_end: "2020-12-21"
+#       date_start: "2020-07-01"
+#       description: ""
+#       organization: DataCamp
+#       organization_url: https://www.datacamp.com
+#       title: Object-Oriented Programming in R
+#       url: ""
+#     subtitle: null
+#     title: Accomplish&shy;ments
+#   design:
+#     columns: "2"
 - block: collection
   content:
     count: 5
@@ -129,13 +129,13 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
-- block: markdown
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-  design:
-    columns: "1"
+# - block: markdown
+#   content:
+#     subtitle: ""
+#     text: '{{< gallery album="demo" >}}'
+#     title: Gallery
+#   design:
+#     columns: "1"
 - block: collection
   content:
     filters:

@@ -22,34 +22,6 @@
     <lastmod>2022-04-28T18:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://vilmaromero.github.io/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://vilmaromero.github.io/tag/casual-analysis/</loc>
     <lastmod>2019-06-19T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -102,6 +74,10 @@
     <lastmod>2018-03-05T17:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://vilmaromero.github.io/categories/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://vilmaromero.github.io/post/2017-02-14-causal-diagram/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -111,6 +87,18 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://vilmaromero.github.io/tag/ggplot2/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/tag/plot/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/post/</loc>
+    <lastmod>2017-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/category/r/</loc>
     <lastmod>2017-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
