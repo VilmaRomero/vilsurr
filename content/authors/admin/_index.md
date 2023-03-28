@@ -9,13 +9,13 @@ education:
     institution: National University of Engineering
     year: 2012
 email: ""
-first_name: Vilma
+first_name: Vilma S.
 highlight_name: true
 interests:
  - Data Visualization
  - Statistical Learning
  - Data Science
-last_name: Romero
+last_name: Romero-Romero
 organizations:
 - name: University of Lima
   url: https://www.ulima.edu.pe

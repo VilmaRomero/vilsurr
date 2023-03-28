@@ -32,11 +32,15 @@ tags:
 title: Recent trends in movement ecology of animals and human mobility
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1186/s40462-022-00322-9
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+
+links:
+  - name: Journal website
+    url: https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-022-00322-9
 ---
 
