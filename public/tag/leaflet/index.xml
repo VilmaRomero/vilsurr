@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>leaflet | Vilma Romero</title>
+    <link>https://vilmaromero.github.io/tag/leaflet/</link>
+      <atom:link href="https://vilmaromero.github.io/tag/leaflet/index.xml" rel="self" type="application/rss+xml" />
+    <description>leaflet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vilmaromero.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>leaflet</title>
+      <link>https://vilmaromero.github.io/tag/leaflet/</link>
+    </image>
+    
+    <item>
+      <title>Crea tu primera app en 45 minutos con Shiny y R</title>
+      <link>https://vilmaromero.github.io/workshop/shiny2019/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://vilmaromero.github.io/workshop/shiny2019/</guid>
+      <description>&lt;p&gt;Este taller tiene como objetivo introducir a los participantes el uso del paquete &lt;a href=&#34;https://shiny.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;shiny&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;. Este paquete permite construir de manera sencilla aplicaciones web interactivas directamente desde R. Además, gracias a que la elaboración se realiza completamente desde R, se tiene la ventaja de que los usuarios no sólo puedan interactuar con los datos sino también con sus respectivos análisis.&lt;/p&gt;
+&lt;p&gt;Al finalizar este taller y utilizando los datos de la encuesta histórica del estado de la felicidad global tomados de la &lt;a href=&#34;https://www.kaggle.com/unsdsn/world-happiness&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plataforma Kaggle&lt;/a&gt;, habremos construido lo siguiente:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /workshop/shiny2019/featured_hu464cc511430efcbfe9f64393bcf5a50c_913736_da8fa8fb89813340ca6b208d13e70d09.webp 400w,
+               /workshop/shiny2019/featured_hu464cc511430efcbfe9f64393bcf5a50c_913736_8d0b5572f6fd8ddc3977f6cb72a22e58.webp 760w,
+               /workshop/shiny2019/featured_hu464cc511430efcbfe9f64393bcf5a50c_913736_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vilmaromero.github.io/workshop/shiny2019/featured_hu464cc511430efcbfe9f64393bcf5a50c_913736_da8fa8fb89813340ca6b208d13e70d09.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;452&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;El despliegue de esta aplicación se encuentra en &lt;a href=&#34;https://vilsurr.shinyapps.io/tallershinywomensday/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vilsurr.shinyapps.io/tallershinywomensday/&lt;/a&gt;. Es importante mencionar que para que los resultados se vean como la imagen anterior, hay que cargar alguno de los archivos &lt;em&gt;.csv&lt;/em&gt; que se encuentran en la carpeta &lt;strong&gt;&amp;ldquo;world-happiness-report&amp;rdquo;&lt;/strong&gt; del &lt;a href=&#34;https://github.com/VilmaRomero/TallerShiny-WomensDay&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repositorio del taller&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
