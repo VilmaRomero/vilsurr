@@ -151,8 +151,8 @@ sections:
       tag: '*'
     - name: shiny
       tag: shiny
-    - name: RMarkdown
-      tag: RMarkdown
+    - name: rmarkdown
+      tag: rmarkdown
     default_button_index: 0
     filters:
       folders:

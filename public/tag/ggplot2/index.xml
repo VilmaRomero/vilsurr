@@ -5,12 +5,22 @@
     <link>https://vilmaromero.github.io/tag/ggplot2/</link>
       <atom:link href="https://vilmaromero.github.io/tag/ggplot2/index.xml" rel="self" type="application/rss+xml" />
     <description>ggplot2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vilmaromero.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>ggplot2</title>
       <link>https://vilmaromero.github.io/tag/ggplot2/</link>
     </image>
+    
+    <item>
+      <title>Reportes reproducibles con R Markdown</title>
+      <link>https://vilmaromero.github.io/workshop/rmarkdown2018/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://vilmaromero.github.io/workshop/rmarkdown2018/</guid>
+      <description>&lt;p&gt;En este taller aprenderemos a elaborar informes reproducibles e interactivos con R. Esto es posible gracias a &lt;a href=&#34;https://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;R Markdown&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; que permite además incluir análisis con código R para generar documentos, reportes, presentaciones y dashboards de alta calidad en diferentes formatos como html, pdf, word y más.&lt;/p&gt;
+&lt;p&gt;Además, los datos que se emplearán durante el taller provienen del &lt;em&gt;VI Censo Nacional de Comisarías&lt;/em&gt; realizado en el año 2017 por el &lt;a href=&#34;https://www.inei.gob.pe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Instituto Nacional de Estadística e Informática&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Causal Diagram</title>
