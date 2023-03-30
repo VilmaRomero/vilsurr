@@ -6,9 +6,9 @@ image:
  focal_point: ''
  preview_only: true
 links:
-  - name: Material
+  - name: <i class="fa-brands fa-github"></i> Material
     url: https://github.com/VilmaRomero/TallerShiny-WomensDay
-  - name: Data
+  - name: <i class="fa-solid fa-database"></i> Data
     url: https://www.kaggle.com/unsdsn/world-happiness
 
 summary: Taller de Shiny preparado para el evento *Women’s Day - Por más mujeres en tecnología*.
