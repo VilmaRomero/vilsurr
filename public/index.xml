@@ -29,6 +29,51 @@
     </item>
     
     <item>
+      <title>Aplicaciones web interactivas con Shiny</title>
+      <link>https://vilmaromero.github.io/workshop/shiny2020/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vilmaromero.github.io/workshop/shiny2020/</guid>
+      <description>&lt;p&gt;Taller a cargo de &lt;a href=&#34;https://florencia.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Florencia D&amp;rsquo;Andrea&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://jcrodriguez.rbind.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juan Cruz Rodríguez&lt;/strong&gt;&lt;/a&gt; y &lt;a href=&#34;https://vilmaromero.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Vilma Romero&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sobre el taller&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;¿Quieres generar una página web interactiva a partir de tu código de R? Con el paquete &lt;a href=&#34;https://shiny.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;&lt;code&gt;Shiny&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt;, resulta sencillo tomar tu trabajo en R y exponerlo a través de un navegador web para que cualquiera pueda usarlo.&lt;/p&gt;
+&lt;p&gt;En este taller inicial desarrollaremos una Shiny app de principio a fin. Te acompañaremos para que puedas generar la interfaz de usuario y el código del servidor. Brindaremos a la par algunas prácticas y tips al momento de su construcción así como recomendaciones de paquetes que pueden mejorar sustancialmente la app. Para finalizar te mostraremos formas gratuitas en las que podrás compartir la misma.&lt;/p&gt;
+&lt;p&gt;Al finalizar el taller, habremos construido la siguiente app:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /workshop/shiny2020/featured_hucfb1ee20c682e16bafa1d3d5b5bd761d_209856_7a22f8f92e4b2d06ca4e1c5174e24206.webp 400w,
+               /workshop/shiny2020/featured_hucfb1ee20c682e16bafa1d3d5b5bd761d_209856_c982e68ce894832f91c22a55e2a26564.webp 760w,
+               /workshop/shiny2020/featured_hucfb1ee20c682e16bafa1d3d5b5bd761d_209856_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://vilmaromero.github.io/workshop/shiny2020/featured_hucfb1ee20c682e16bafa1d3d5b5bd761d_209856_7a22f8f92e4b2d06ca4e1c5174e24206.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;611&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; Martes 29/09 | 18:00 a 20:00 horas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lugar:&lt;/strong&gt; Online&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Longitudinal Multidimensional Item Response Modelling in Preschool Children&#39;s Mental State Understanding</title>
       <link>https://vilmaromero.github.io/talk/longitudinal-multidimensional-item-response-modelling-in-preschool-childrens-mental-state-understanding/</link>
       <pubDate>Wed, 19 Jun 2019 08:30:00 +0000</pubDate>

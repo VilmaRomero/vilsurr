@@ -38,6 +38,26 @@
     <lastmod>2022-04-28T18:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://vilmaromero.github.io/workshop/shiny2020/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/tag/ggplot2/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/tag/r/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/tag/shiny/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://vilmaromero.github.io/workshop/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://vilmaromero.github.io/tag/casual-analysis/</loc>
     <lastmod>2019-06-19T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,28 +90,12 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://vilmaromero.github.io/tag/r/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/tag/shiny/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/workshop/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://vilmaromero.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://vilmaromero.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://vilmaromero.github.io/tag/ggplot2/</loc>
-    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://vilmaromero.github.io/workshop/rmarkdown2018/</loc>
