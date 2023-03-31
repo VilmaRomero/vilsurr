@@ -39,6 +39,6 @@ url_video: ""
 links:
   - name: DOI
     url: https://doi.org/10.1007/978-3-030-63089-8_30
-  - name: Journal website
+  - name: Proceedings website
     url: https://link.springer.com/chapter/10.1007/978-3-030-63089-8_30
 ---
