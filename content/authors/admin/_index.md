@@ -46,7 +46,7 @@ authors:
 - admin
 ---
 
-I am a Lecturer in the [Faculty of Engineering and Architecture](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at the [University of Lima](https://www.ulima.edu.pe) located in Peru. My research interests include Data Visualization, Statistical Learning and Data Science.
+I am a Lecturer in the [Faculty of Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at the [University of Lima](https://www.ulima.edu.pe) located in Peru. My research interests include Data Visualization, Statistical Learning and Data Science.
 
 Also, I am part of the [R-Ladies Global community](https://rladies.org) and the chapter [R-Ladies Lima](https://www.meetup.com/es-ES/rladies-lima/).
 
